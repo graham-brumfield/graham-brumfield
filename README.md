@@ -7,4 +7,4 @@ I am mostly interested in game developement but sometimes I work on random thing
 
 
 
-Email me: `gbrumfield27@proton.me`
+Email me: [gbrumfield27@proton.me]
